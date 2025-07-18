@@ -18,6 +18,16 @@ const ProjectsSection = () => {
       icon: <FaGlobe className="text-tech-purple text-2xl" />,
     },
     {
+      title: "Jerico Eduplay",
+      category: "web",
+      description: "A Web based educated game",
+      technologies: ["React.js", "Tailwind CSS", "Laravel"],
+      image: "image/eduplay.png",
+      demoLink: "https://jerico-eduplay.netlify.app/",
+      codeLink: "https://github.com/jerico-c/eduplay",
+      icon: <FaGlobe className="text-tech-purple text-2xl" />,
+    },
+    {
       title: "Storia",
       category: "web",
       description: "An web app for story sharing. User can upload photo and point a spesific location on a map",
