@@ -5,6 +5,18 @@ import { FaBriefcase, FaChalkboardTeacher, FaServer, FaLaptopCode } from "react-
 const ExperienceSection = () => {
   const experienceItems = [
     {
+      company: "Google Cloud and Dicoding",
+      role: "Google Cloud Arcade Facilitator",
+      period: "Jul 2025 - Present",
+      description:
+        "This fully-funded scholarship from Google Cloud offers a unique, gamified learning journey. It is designed to empower Indonesia's digital talent to build and master in-demand skills in cloud computing and artificial intelligence.",
+      achievements: [
+        "Guide and validate the completion of Google Cloud hands-on labs for participants, ensuring a deep understanding of technical concepts.",
+      ],
+      icon: <FaChalkboardTeacher className="text-tech-purple text-xl" />,
+      image: "/image/arcade.jpeg",
+    },
+    {
       company: "CROG International Magelang",
       role: "Teaching Staff",
       period: "Aug 2024 - Present",
