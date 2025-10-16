@@ -66,7 +66,7 @@ const HeroSection = () => {
               transition={{ delay: 0.8, duration: 0.5 }}
               className="text-tech-charcoal dark:text-gray-300 max-w-xl"
             >
-              Fullstack Developer | Certified Junior Network Administrator from BNSP
+              Fullstack Developer | BNSP Certified Data Analyst | BNSP Certified Junior Network Administrator 
             </motion.p>
 
             <motion.div
