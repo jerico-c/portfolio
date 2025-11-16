@@ -21,7 +21,7 @@ const EducationSection = () => {
     {
       institution: "Coding Camp by DBS Foundation",
       degree: "Front-End and Back-End Development",
-      period: "Feb 2025 - Present",
+      period: "Feb 2025 - Jul 2025",
       description: "Intensive training in web development technologies",
       focus: "Focus: HTML, CSS, JavaScript, API Integration",
       courses: [],
