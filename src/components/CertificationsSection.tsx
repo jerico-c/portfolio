@@ -16,6 +16,13 @@ const CertificationsSection = () => {
       title: "Junior Network Administrator",
       issuer: "Badan Nasional Sertifikasi Profesi",
       date: "August 2024",
+      image: "image/sertif-ada.png",
+      link: "https://drive.google.com/file/d/18OgmfPq3G4NeCCa4soivkWFrgCduHR6d/view?usp=drivesdk",
+    },
+    {
+      title: "Associate Data Analyst",
+      issuer: "Badan Nasional Sertifikasi Profesi",
+      date: "September 2025",
       image: "image/sertif-bnsp.png",
       link: "https://drive.google.com/file/d/18OgmfPq3G4NeCCa4soivkWFrgCduHR6d/view?usp=drivesdk",
     },
